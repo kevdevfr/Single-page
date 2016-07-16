@@ -1,0 +1,17 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Kevin Mouchené -- kevdev.fr
+
+# THANKS
+
+    HTML5 boilerplate consensus
+    Fontello
+    Stackoverflow
+
+# TECHNOLOGY COLOPHON
+
+    PHP5, XML, CSS3, HTML5
+    Apache Server Configs, jQuery, Normalize.css
